@@ -20,7 +20,7 @@
 -React
 -Js
 -HTML
-CSS (Boostrap)
+-CSS (Bootstrap)
 ->Автор
 Barry Arona @ Samara (Russia)
 
